@@ -1,0 +1,14 @@
+int a is 111;
+int b is 4;
+int c is a%b;
+
+char m is a;
+char n is b;
+str s is resto;
+
+cout m;
+nout a;
+cout n;
+nout b;
+sout s;
+nout c;

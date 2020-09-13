@@ -1,0 +1,8 @@
+int a is 21;
+
+while (a~=0)
+begin
+	a is a-1;
+end;
+
+nout a;

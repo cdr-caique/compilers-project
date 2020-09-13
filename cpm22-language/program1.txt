@@ -1,0 +1,19 @@
+int a is 3;
+int b is 5;
+int c is a;
+
+str x is int_a;
+str y is int_b;
+str z is int_c;
+
+if (a~=b)
+begin
+	a is a*b;
+end;
+
+sout x;
+nout a;
+sout y;
+nout b;
+sout z;
+nout c;
